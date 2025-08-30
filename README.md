@@ -289,6 +289,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if it saved you from a 3 AM server meltdown! ⭐**
 
-Made with ❤️ by IT teams who were tired of being reactive
+
 
 </div>
